@@ -10,3 +10,16 @@
 
 # 解决帧动画大小不统一得问题 通过修改offet
 - canvas 可以通过translate 来解决【需要配合save、restore】
+
+# 转换
+```js
+let str = ``
+let arr = str.split('\n')
+arr = arr.map(item=>{
+    let [a,b] = item.split(' ')
+     if(!a)return 
+    return [Number(a),b&&Number(b)]
+   
+})
+console.log(arr.filter(v=>v))
+```
