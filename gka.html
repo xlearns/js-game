@@ -1,0 +1,85 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0,maximum-scale=1">
+    <script name='gkaRibbon'>document.addEventListener('DOMContentLoaded',function(){var d=document.createElement('div');d.innerHTML='<div style="position: fixed; bottom: 10px;">Powered By <a target="_blank" href="https://github.com/gkajs/gka">gka 2.8.6</a></div>';document.body.appendChild(d)});</script>
+    <title>gka-preview</title>
+</head>
+<body>
+
+    <canvas id="gka" width="800" height="480"></canvas>
+    <script src="./gka-data.js"></script>
+    <script src="./json.js"></script>
+    <script>
+
+    function preloadImage(names, cb, prefix){
+        window.gkaCache = window.gkaCache || [];
+        var n = 0,img,imgs = {};
+        names.forEach(function(name) {
+            img = new Image();
+            window.gkaCache.push(img);
+            img.onload = (function(name, img) {
+                return function() {
+                    imgs[name] = img;
+                    (++n === names.length) && cb && cb(imgs);
+                }
+            })(name, img);
+            img.src = (prefix || '') + name;
+        });
+    }
+
+    function drawBg(ctx,width,height){
+        ctx.fillStyle = '#000';
+        ctx.fillRect(0, 0, width, height);
+    }
+
+    preloadImage(["sprites.png"], function(imgs) {
+       var canvas = document.getElementById('gka'),
+            ctx = canvas.getContext('2d'),
+            frames = data.frames,
+            i = 0,
+            o = {},
+            key = Object.keys(data.animations)[0],
+            list = data.animations[key],
+            len = list.length,
+            width = data.w,
+            height = data.h,
+            ratio = Math.max(document.body.clientWidth / 375, 1);
+            drawBg(ctx,width,height)
+        // console.log(data)
+        // canvas.style.width = (width / (375 * ratio)) * document.body.clientWidth + 'px';
+        // canvas.style.height = (height / (375 * ratio)) * document.body.clientWidth + 'px';
+
+        // canvas.width = width * ratio;
+        // canvas.height = height * ratio;
+        // ctx.scale(ratio, ratio);
+
+        var cacheCanvas = document.createElement("canvas"),
+            ctxCache = cacheCanvas.getContext("2d");
+
+        
+        cacheCanvas.width = canvas.width;
+        cacheCanvas.height = canvas.height;
+        
+        setInterval(function(){
+            o = list[i];
+            // ctxCache.clearRect(0, 0, canvas.width, canvas.height);
+            drawBg(ctxCache,canvas.width, canvas.height)
+            o = Object.prototype.toString.call(o)=='[object Array]'? o: [o];
+            for (var j = 0, t; j < o.length; j++) {
+              
+                t = data.frames[o[j]];
+
+                ctxCache.save()
+                // 偏移
+                ctxCache.translate(json[o[j]][0],json[o[j]][1]);
+                ctxCache.drawImage((imgs[t.file] || imgs[data.file]), (t.x || data.x || 0), (t.y || data.y || 0), (t.width || data.width), (t.height || data.height), (t.offX || data.offX || 0), (t.offY || data.offY || 0), (t.width || data.width), (t.height || data.height));
+                ctxCache.restore()
+            }
+            ctx.drawImage(cacheCanvas, 0, 0, canvas.width, canvas.height);
+            i = ++i === len? 0: i;
+        }, 1000/60 * 3)
+    }, "img/")
+    </script>
+</body>
+</html>
