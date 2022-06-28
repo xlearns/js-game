@@ -1,0 +1,188 @@
+{
+	"textures": [
+		{
+			"image": "艾尔文防线.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 452,
+				"h": 715
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "A.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 224,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 224,
+						"h": 81
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 224,
+						"h": 81
+					}
+				},
+				{
+					"filename": "D.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 224,
+						"h": 82
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 224,
+						"h": 82
+					},
+					"frame": {
+						"x": 224,
+						"y": 0,
+						"w": 224,
+						"h": 82
+					}
+				},
+				{
+					"filename": "10.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 141,
+						"h": 89
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 141,
+						"h": 89
+					},
+					"frame": {
+						"x": 0,
+						"y": 82,
+						"w": 141,
+						"h": 89
+					}
+				},
+				{
+					"filename": "B.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 224,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 224,
+						"h": 97
+					},
+					"frame": {
+						"x": 141,
+						"y": 82,
+						"w": 224,
+						"h": 97
+					}
+				},
+				{
+					"filename": "C.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 224,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 224,
+						"h": 97
+					},
+					"frame": {
+						"x": 0,
+						"y": 179,
+						"w": 224,
+						"h": 97
+					}
+				},
+				{
+					"filename": "城市指示.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 156,
+						"h": 220
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 156,
+						"h": 220
+					},
+					"frame": {
+						"x": 224,
+						"y": 179,
+						"w": 156,
+						"h": 220
+					}
+				},
+				{
+					"filename": "110.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 156,
+						"h": 257
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 156,
+						"h": 257
+					},
+					"frame": {
+						"x": 0,
+						"y": 399,
+						"w": 156,
+						"h": 257
+					}
+				},
+				{
+					"filename": "旅馆入口.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 296,
+						"h": 316
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 296,
+						"h": 316
+					},
+					"frame": {
+						"x": 156,
+						"y": 399,
+						"w": 296,
+						"h": 316
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:1a8f1cf2a9ffaa10f756f63e10d169a6:f582157cf63a020fdc7fd58c7e107c80:187826f20e0c0d4bf545766c7c4aa4f9$"
+	}
+}

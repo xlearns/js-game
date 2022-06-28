@@ -1,0 +1,125 @@
+{
+	"textures": [
+		{
+			"image": "血剑.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 954,
+				"h": 1028
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "0.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 954,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 954,
+						"h": 480
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 954,
+						"h": 480
+					}
+				},
+				{
+					"filename": "1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 373,
+						"h": 393
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 373,
+						"h": 393
+					},
+					"frame": {
+						"x": 0,
+						"y": 480,
+						"w": 373,
+						"h": 393
+					}
+				},
+				{
+					"filename": "2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 239,
+						"h": 101
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 239,
+						"h": 101
+					},
+					"frame": {
+						"x": 373,
+						"y": 480,
+						"w": 239,
+						"h": 101
+					}
+				},
+				{
+					"filename": "light2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 305,
+						"h": 106
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 305,
+						"h": 106
+					},
+					"frame": {
+						"x": 612,
+						"y": 480,
+						"w": 305,
+						"h": 106
+					}
+				},
+				{
+					"filename": "light3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 238,
+						"h": 155
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 238,
+						"h": 155
+					},
+					"frame": {
+						"x": 0,
+						"y": 873,
+						"w": 238,
+						"h": 155
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:f21f58dac2ce9aec7d8e78771c00b027:559e13475ddc1ce2b8aaff2cf101dbba:a806f1d7a15df448e5263ce2523c4c06$"
+	}
+}

@@ -1,0 +1,293 @@
+{
+	"textures": [
+		{
+			"image": "MoonLightPub-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1911,
+				"h": 1041
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Left_A.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 224,
+						"h": 560
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 224,
+						"h": 560
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 224,
+						"h": 560
+					}
+				},
+				{
+					"filename": "Left_B.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 224,
+						"h": 560
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 224,
+						"h": 560
+					},
+					"frame": {
+						"x": 224,
+						"y": 0,
+						"w": 224,
+						"h": 560
+					}
+				},
+				{
+					"filename": "Left_Door.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 224,
+						"h": 560
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 224,
+						"h": 560
+					},
+					"frame": {
+						"x": 448,
+						"y": 0,
+						"w": 224,
+						"h": 560
+					}
+				},
+				{
+					"filename": "Right_A.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 224,
+						"h": 560
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 224,
+						"h": 560
+					},
+					"frame": {
+						"x": 672,
+						"y": 0,
+						"w": 224,
+						"h": 560
+					}
+				},
+				{
+					"filename": "Right_B.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 224,
+						"h": 560
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 224,
+						"h": 560
+					},
+					"frame": {
+						"x": 896,
+						"y": 0,
+						"w": 224,
+						"h": 560
+					}
+				},
+				{
+					"filename": "Right_Barrel.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 240,
+						"h": 560
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 240,
+						"h": 560
+					},
+					"frame": {
+						"x": 1120,
+						"y": 0,
+						"w": 240,
+						"h": 560
+					}
+				},
+				{
+					"filename": "Right_Door.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 240,
+						"h": 560
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 240,
+						"h": 560
+					},
+					"frame": {
+						"x": 1360,
+						"y": 0,
+						"w": 240,
+						"h": 560
+					}
+				},
+				{
+					"filename": "Wood_Pillar.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 311,
+						"h": 324
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 311,
+						"h": 324
+					},
+					"frame": {
+						"x": 1600,
+						"y": 0,
+						"w": 311,
+						"h": 324
+					}
+				},
+				{
+					"filename": "8.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 655,
+						"h": 54
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 655,
+						"h": 54
+					},
+					"frame": {
+						"x": 0,
+						"y": 560,
+						"w": 655,
+						"h": 54
+					}
+				},
+				{
+					"filename": "6.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 898,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 898,
+						"h": 90
+					},
+					"frame": {
+						"x": 655,
+						"y": 560,
+						"w": 898,
+						"h": 90
+					}
+				},
+				{
+					"filename": "Far.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1089,
+						"h": 305
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1089,
+						"h": 305
+					},
+					"frame": {
+						"x": 0,
+						"y": 650,
+						"w": 1089,
+						"h": 305
+					}
+				},
+				{
+					"filename": "UnderFill.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1408,
+						"h": 43
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1408,
+						"h": 43
+					},
+					"frame": {
+						"x": 0,
+						"y": 955,
+						"w": 1408,
+						"h": 43
+					}
+				},
+				{
+					"filename": "UnderFill2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1408,
+						"h": 43
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1408,
+						"h": 43
+					},
+					"frame": {
+						"x": 0,
+						"y": 998,
+						"w": 1408,
+						"h": 43
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:1c2fcc7d3126b8282fa455361f0dcec2:b83bed6ce91df7899238068612077133:d21052f14d4f0f518e0f85946f00c678$"
+	}
+}

@@ -1,0 +1,56 @@
+{
+  "textures": [
+    {
+      "image": "攻击1.png",
+      "format": "RGBA8888",
+      "size": {
+        "w": 957,
+        "h": 465
+      },
+      "scale": 1,
+      "frames": [
+        {
+          "filename": "攻击1_1",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 71,
+            "h": 107
+          },
+          "spriteSourceSize": {
+            "x": 189,
+            "y": 231,
+            "w": 71,
+            "h": 107
+          },
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 71,
+            "h": 107
+          }
+        },
+        {
+          "filename": "攻击1_2",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 140,
+            "h": 140
+          },
+          "spriteSourceSize": {
+            "x": 189,
+            "y": 231,
+            "w": 71,
+            "h": 107
+          },
+          "frame": {
+            "x": 2,
+            "y": 145,
+            "w": 69,
+            "h": 138
+          }
+        }]
+        }
+      ]
+  }

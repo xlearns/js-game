@@ -1,0 +1,2142 @@
+{
+	"textures": [
+		{
+			"image": "HendonMyre-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2033,
+				"h": 2027
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "V_Grass.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 22,
+						"h": 12
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 22,
+						"h": 12
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 22,
+						"h": 12
+					}
+				},
+				{
+					"filename": "F_Grass.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 23,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 23,
+						"h": 16
+					},
+					"frame": {
+						"x": 22,
+						"y": 0,
+						"w": 23,
+						"h": 16
+					}
+				},
+				{
+					"filename": "BB_PinkFlower.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 66,
+						"h": 25
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 66,
+						"h": 25
+					},
+					"frame": {
+						"x": 45,
+						"y": 0,
+						"w": 66,
+						"h": 25
+					}
+				},
+				{
+					"filename": "WB_OrangeFlower.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 66,
+						"h": 25
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 66,
+						"h": 25
+					},
+					"frame": {
+						"x": 111,
+						"y": 0,
+						"w": 66,
+						"h": 25
+					}
+				},
+				{
+					"filename": "WB_PurpleFlower.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 66,
+						"h": 25
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 66,
+						"h": 25
+					},
+					"frame": {
+						"x": 177,
+						"y": 0,
+						"w": 66,
+						"h": 25
+					}
+				},
+				{
+					"filename": "Horse_Flume.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 105,
+						"h": 36
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 105,
+						"h": 36
+					},
+					"frame": {
+						"x": 243,
+						"y": 0,
+						"w": 105,
+						"h": 36
+					}
+				},
+				{
+					"filename": "Ground_J.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 114,
+						"h": 38
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 114,
+						"h": 38
+					},
+					"frame": {
+						"x": 348,
+						"y": 0,
+						"w": 114,
+						"h": 38
+					}
+				},
+				{
+					"filename": "Box.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 58,
+						"h": 39
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 58,
+						"h": 39
+					},
+					"frame": {
+						"x": 462,
+						"y": 0,
+						"w": 58,
+						"h": 39
+					}
+				},
+				{
+					"filename": "WestmSafetyBar_A.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 63,
+						"h": 41
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 63,
+						"h": 41
+					},
+					"frame": {
+						"x": 520,
+						"y": 0,
+						"w": 63,
+						"h": 41
+					}
+				},
+				{
+					"filename": "WestmSafetyBar_B.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 14,
+						"h": 41
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 14,
+						"h": 41
+					},
+					"frame": {
+						"x": 583,
+						"y": 0,
+						"w": 14,
+						"h": 41
+					}
+				},
+				{
+					"filename": "Box_Fall.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 56,
+						"h": 51
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 56,
+						"h": 51
+					},
+					"frame": {
+						"x": 597,
+						"y": 0,
+						"w": 56,
+						"h": 51
+					}
+				},
+				{
+					"filename": "Potted_PurpleFlower.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 44,
+						"h": 58
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 44,
+						"h": 58
+					},
+					"frame": {
+						"x": 653,
+						"y": 0,
+						"w": 44,
+						"h": 58
+					}
+				},
+				{
+					"filename": "Ground_I.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 136,
+						"h": 66
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 66
+					},
+					"frame": {
+						"x": 697,
+						"y": 0,
+						"w": 136,
+						"h": 66
+					}
+				},
+				{
+					"filename": "StoneFence_C.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 147,
+						"h": 73
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 147,
+						"h": 73
+					},
+					"frame": {
+						"x": 833,
+						"y": 0,
+						"w": 147,
+						"h": 73
+					}
+				},
+				{
+					"filename": "Podium.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 397,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 397,
+						"h": 80
+					},
+					"frame": {
+						"x": 980,
+						"y": 0,
+						"w": 397,
+						"h": 80
+					}
+				},
+				{
+					"filename": "SkyWall_A.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 224,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 224,
+						"h": 81
+					},
+					"frame": {
+						"x": 1377,
+						"y": 0,
+						"w": 224,
+						"h": 81
+					}
+				},
+				{
+					"filename": "StoneFence_D.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 224,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 224,
+						"h": 81
+					},
+					"frame": {
+						"x": 1601,
+						"y": 0,
+						"w": 224,
+						"h": 81
+					}
+				},
+				{
+					"filename": "SnowArea_Entrance_L.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 210,
+						"h": 86
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 210,
+						"h": 86
+					},
+					"frame": {
+						"x": 0,
+						"y": 81,
+						"w": 210,
+						"h": 86
+					}
+				},
+				{
+					"filename": "SeatStone.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 79,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 79,
+						"h": 94
+					},
+					"frame": {
+						"x": 210,
+						"y": 81,
+						"w": 79,
+						"h": 94
+					}
+				},
+				{
+					"filename": "StoneFence_B.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 222,
+						"h": 95
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 222,
+						"h": 95
+					},
+					"frame": {
+						"x": 289,
+						"y": 81,
+						"w": 222,
+						"h": 95
+					}
+				},
+				{
+					"filename": "StoneFence_A.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 224,
+						"h": 98
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 224,
+						"h": 98
+					},
+					"frame": {
+						"x": 511,
+						"y": 81,
+						"w": 224,
+						"h": 98
+					}
+				},
+				{
+					"filename": "DeadValleyObj.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 250,
+						"h": 99
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 250,
+						"h": 99
+					},
+					"frame": {
+						"x": 735,
+						"y": 81,
+						"w": 250,
+						"h": 99
+					}
+				},
+				{
+					"filename": "Ground_A.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 224,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 224,
+						"h": 120
+					},
+					"frame": {
+						"x": 985,
+						"y": 81,
+						"w": 224,
+						"h": 120
+					}
+				},
+				{
+					"filename": "Ground_B.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 224,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 224,
+						"h": 120
+					},
+					"frame": {
+						"x": 1209,
+						"y": 81,
+						"w": 224,
+						"h": 120
+					}
+				},
+				{
+					"filename": "Ground_D.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 224,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 224,
+						"h": 120
+					},
+					"frame": {
+						"x": 1433,
+						"y": 81,
+						"w": 224,
+						"h": 120
+					}
+				},
+				{
+					"filename": "Ground_H.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 225,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 225,
+						"h": 121
+					},
+					"frame": {
+						"x": 1657,
+						"y": 81,
+						"w": 225,
+						"h": 121
+					}
+				},
+				{
+					"filename": "SC_Entrance_SF_End.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 224,
+						"h": 124
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 224,
+						"h": 124
+					},
+					"frame": {
+						"x": 0,
+						"y": 202,
+						"w": 224,
+						"h": 124
+					}
+				},
+				{
+					"filename": "Wall.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 224,
+						"h": 134
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 224,
+						"h": 134
+					},
+					"frame": {
+						"x": 224,
+						"y": 202,
+						"w": 224,
+						"h": 134
+					}
+				},
+				{
+					"filename": "SkyWall_B.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 224,
+						"h": 137
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 224,
+						"h": 137
+					},
+					"frame": {
+						"x": 448,
+						"y": 202,
+						"w": 224,
+						"h": 137
+					}
+				},
+				{
+					"filename": "Ground_C.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 224,
+						"h": 138
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 224,
+						"h": 138
+					},
+					"frame": {
+						"x": 672,
+						"y": 202,
+						"w": 224,
+						"h": 138
+					}
+				},
+				{
+					"filename": "Ground_E.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 224,
+						"h": 138
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 224,
+						"h": 138
+					},
+					"frame": {
+						"x": 896,
+						"y": 202,
+						"w": 224,
+						"h": 138
+					}
+				},
+				{
+					"filename": "Ground_G.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 224,
+						"h": 138
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 224,
+						"h": 138
+					},
+					"frame": {
+						"x": 1120,
+						"y": 202,
+						"w": 224,
+						"h": 138
+					}
+				},
+				{
+					"filename": "Door_Down_NF.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 137,
+						"h": 139
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 137,
+						"h": 139
+					},
+					"frame": {
+						"x": 1344,
+						"y": 202,
+						"w": 137,
+						"h": 139
+					}
+				},
+				{
+					"filename": "GurlandForest_Entrance_Ground_B.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 224,
+						"h": 180
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 224,
+						"h": 180
+					},
+					"frame": {
+						"x": 1481,
+						"y": 202,
+						"w": 224,
+						"h": 180
+					}
+				},
+				{
+					"filename": "West_Tile_E.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 305,
+						"h": 186
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 305,
+						"h": 186
+					},
+					"frame": {
+						"x": 1705,
+						"y": 202,
+						"w": 305,
+						"h": 186
+					}
+				},
+				{
+					"filename": "West_Mid_Wharf.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 564,
+						"h": 192
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 564,
+						"h": 192
+					},
+					"frame": {
+						"x": 0,
+						"y": 388,
+						"w": 564,
+						"h": 192
+					}
+				},
+				{
+					"filename": "West_Far.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 640,
+						"h": 193
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 640,
+						"h": 193
+					},
+					"frame": {
+						"x": 564,
+						"y": 388,
+						"w": 640,
+						"h": 193
+					}
+				},
+				{
+					"filename": "West_Tile_D.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 224,
+						"h": 213
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 224,
+						"h": 213
+					},
+					"frame": {
+						"x": 1204,
+						"y": 388,
+						"w": 224,
+						"h": 213
+					}
+				},
+				{
+					"filename": "MunicipalStreet_GuideBoard.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 141,
+						"h": 224
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 141,
+						"h": 224
+					},
+					"frame": {
+						"x": 1428,
+						"y": 388,
+						"w": 141,
+						"h": 224
+					}
+				},
+				{
+					"filename": "OldUrbanAreas_GuideBoard.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 141,
+						"h": 224
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 141,
+						"h": 224
+					},
+					"frame": {
+						"x": 1569,
+						"y": 388,
+						"w": 141,
+						"h": 224
+					}
+				},
+				{
+					"filename": "West_Business_Area.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 141,
+						"h": 224
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 141,
+						"h": 224
+					},
+					"frame": {
+						"x": 1710,
+						"y": 388,
+						"w": 141,
+						"h": 224
+					}
+				},
+				{
+					"filename": "West_Mob.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 443,
+						"h": 230
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 443,
+						"h": 230
+					},
+					"frame": {
+						"x": 0,
+						"y": 612,
+						"w": 443,
+						"h": 230
+					}
+				},
+				{
+					"filename": "Landmark_Green_Left.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 168,
+						"h": 235
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 168,
+						"h": 235
+					},
+					"frame": {
+						"x": 443,
+						"y": 612,
+						"w": 168,
+						"h": 235
+					}
+				},
+				{
+					"filename": "Landmark_Green_Right.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 164,
+						"h": 235
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 164,
+						"h": 235
+					},
+					"frame": {
+						"x": 611,
+						"y": 612,
+						"w": 164,
+						"h": 235
+					}
+				},
+				{
+					"filename": "WindV_House.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 295,
+						"h": 237
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 295,
+						"h": 237
+					},
+					"frame": {
+						"x": 775,
+						"y": 612,
+						"w": 295,
+						"h": 237
+					}
+				},
+				{
+					"filename": "Far.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 640,
+						"h": 242
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 640,
+						"h": 242
+					},
+					"frame": {
+						"x": 1070,
+						"y": 612,
+						"w": 640,
+						"h": 242
+					}
+				},
+				{
+					"filename": "Door_UP_HF.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 224,
+						"h": 245
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 224,
+						"h": 245
+					},
+					"frame": {
+						"x": 1710,
+						"y": 612,
+						"w": 224,
+						"h": 245
+					}
+				},
+				{
+					"filename": "Door_UP_NF.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 224,
+						"h": 245
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 224,
+						"h": 245
+					},
+					"frame": {
+						"x": 0,
+						"y": 857,
+						"w": 224,
+						"h": 245
+					}
+				},
+				{
+					"filename": "Ground_F_L.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 314,
+						"h": 245
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 314,
+						"h": 245
+					},
+					"frame": {
+						"x": 224,
+						"y": 857,
+						"w": 314,
+						"h": 245
+					}
+				},
+				{
+					"filename": "Ground_F_M.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 314,
+						"h": 245
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 314,
+						"h": 245
+					},
+					"frame": {
+						"x": 538,
+						"y": 857,
+						"w": 314,
+						"h": 245
+					}
+				},
+				{
+					"filename": "West_Wizards_Guild.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 141,
+						"h": 245
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 141,
+						"h": 245
+					},
+					"frame": {
+						"x": 852,
+						"y": 857,
+						"w": 141,
+						"h": 245
+					}
+				},
+				{
+					"filename": "DeadValleyWall_B.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 242,
+						"h": 253
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 242,
+						"h": 253
+					},
+					"frame": {
+						"x": 993,
+						"y": 857,
+						"w": 242,
+						"h": 253
+					}
+				},
+				{
+					"filename": "SnowArea_Entrance_M.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 223,
+						"h": 254
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 223,
+						"h": 254
+					},
+					"frame": {
+						"x": 1235,
+						"y": 857,
+						"w": 223,
+						"h": 254
+					}
+				},
+				{
+					"filename": "Ground_F_R.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 487,
+						"h": 255
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 487,
+						"h": 255
+					},
+					"frame": {
+						"x": 1458,
+						"y": 857,
+						"w": 487,
+						"h": 255
+					}
+				},
+				{
+					"filename": "Middle.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 895,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 895,
+						"h": 258
+					},
+					"frame": {
+						"x": 0,
+						"y": 1112,
+						"w": 895,
+						"h": 258
+					}
+				},
+				{
+					"filename": "Tavern_Entrance.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 330,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 330,
+						"h": 260
+					},
+					"frame": {
+						"x": 895,
+						"y": 1112,
+						"w": 330,
+						"h": 260
+					}
+				},
+				{
+					"filename": "West_Tile_D_RM.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 275,
+						"h": 261
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 275,
+						"h": 261
+					},
+					"frame": {
+						"x": 1225,
+						"y": 1112,
+						"w": 275,
+						"h": 261
+					}
+				},
+				{
+					"filename": "CentralSquare_GuideBoard.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 141,
+						"h": 262
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 141,
+						"h": 262
+					},
+					"frame": {
+						"x": 1500,
+						"y": 1112,
+						"w": 141,
+						"h": 262
+					}
+				},
+				{
+					"filename": "West_Tile_C.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 224,
+						"h": 277
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 224,
+						"h": 277
+					},
+					"frame": {
+						"x": 1641,
+						"y": 1112,
+						"w": 224,
+						"h": 277
+					}
+				},
+				{
+					"filename": "Landmark_Red_Left.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 168,
+						"h": 281
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 168,
+						"h": 281
+					},
+					"frame": {
+						"x": 1865,
+						"y": 1112,
+						"w": 168,
+						"h": 281
+					}
+				},
+				{
+					"filename": "Landmark_Red_Right_2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 164,
+						"h": 281
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 164,
+						"h": 281
+					},
+					"frame": {
+						"x": 0,
+						"y": 1393,
+						"w": 164,
+						"h": 281
+					}
+				},
+				{
+					"filename": "Norton_House.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 387,
+						"h": 282
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 387,
+						"h": 282
+					},
+					"frame": {
+						"x": 164,
+						"y": 1393,
+						"w": 387,
+						"h": 282
+					}
+				},
+				{
+					"filename": "West_Mob_RM.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 544,
+						"h": 282
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 544,
+						"h": 282
+					},
+					"frame": {
+						"x": 551,
+						"y": 1393,
+						"w": 544,
+						"h": 282
+					}
+				},
+				{
+					"filename": "Landmark_Red_Right.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 164,
+						"h": 283
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 164,
+						"h": 283
+					},
+					"frame": {
+						"x": 1095,
+						"y": 1393,
+						"w": 164,
+						"h": 283
+					}
+				},
+				{
+					"filename": "DeadValleyWall_A.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 242,
+						"h": 298
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 242,
+						"h": 298
+					},
+					"frame": {
+						"x": 1259,
+						"y": 1393,
+						"w": 242,
+						"h": 298
+					}
+				},
+				{
+					"filename": "SkyBridge_A.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 224,
+						"h": 306
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 224,
+						"h": 306
+					},
+					"frame": {
+						"x": 1501,
+						"y": 1393,
+						"w": 224,
+						"h": 306
+					}
+				},
+				{
+					"filename": "SkyBridge_B.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 224,
+						"h": 306
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 224,
+						"h": 306
+					},
+					"frame": {
+						"x": 1725,
+						"y": 1393,
+						"w": 224,
+						"h": 306
+					}
+				},
+				{
+					"filename": "Triumphal_Arch.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 392,
+						"h": 307
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 392,
+						"h": 307
+					},
+					"frame": {
+						"x": 0,
+						"y": 1699,
+						"w": 392,
+						"h": 307
+					}
+				},
+				{
+					"filename": "Tree_LH.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 136,
+						"h": 311
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 136,
+						"h": 311
+					},
+					"frame": {
+						"x": 392,
+						"y": 1699,
+						"w": 136,
+						"h": 311
+					}
+				},
+				{
+					"filename": "GSD_House_R.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 416,
+						"h": 312
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 416,
+						"h": 312
+					},
+					"frame": {
+						"x": 528,
+						"y": 1699,
+						"w": 416,
+						"h": 312
+					}
+				},
+				{
+					"filename": "StreetLamp_Single.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 29,
+						"h": 317
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 29,
+						"h": 317
+					},
+					"frame": {
+						"x": 944,
+						"y": 1699,
+						"w": 29,
+						"h": 317
+					}
+				},
+				{
+					"filename": "StreetLamp_Three.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 72,
+						"h": 317
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 72,
+						"h": 317
+					},
+					"frame": {
+						"x": 973,
+						"y": 1699,
+						"w": 72,
+						"h": 317
+					}
+				},
+				{
+					"filename": "Albt_House.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 401,
+						"h": 322
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 401,
+						"h": 322
+					},
+					"frame": {
+						"x": 1045,
+						"y": 1699,
+						"w": 401,
+						"h": 322
+					}
+				},
+				{
+					"filename": "GurlandForest_Entrance_Ground_A.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 240,
+						"h": 328
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 240,
+						"h": 328
+					},
+					"frame": {
+						"x": 1446,
+						"y": 1699,
+						"w": 240,
+						"h": 328
+					}
+				},
+				{
+					"filename": "GurlandForest_Entrance_R.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 240,
+						"h": 328
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 240,
+						"h": 328
+					},
+					"frame": {
+						"x": 1686,
+						"y": 1699,
+						"w": 240,
+						"h": 328
+					}
+				}
+			]
+		},
+		{
+			"image": "HendonMyre-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1947,
+				"h": 1592
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "West_Tile_C_RM.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 275,
+						"h": 340
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 275,
+						"h": 340
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 275,
+						"h": 340
+					}
+				},
+				{
+					"filename": "Keri_House.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 395,
+						"h": 346
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 395,
+						"h": 346
+					},
+					"frame": {
+						"x": 275,
+						"y": 0,
+						"w": 395,
+						"h": 346
+					}
+				},
+				{
+					"filename": "West_Far_Wharf.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1111,
+						"h": 350
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1111,
+						"h": 350
+					},
+					"frame": {
+						"x": 670,
+						"y": 0,
+						"w": 1111,
+						"h": 350
+					}
+				},
+				{
+					"filename": "West_MidShip_A.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 299,
+						"h": 350
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 299,
+						"h": 350
+					},
+					"frame": {
+						"x": 0,
+						"y": 350,
+						"w": 299,
+						"h": 350
+					}
+				},
+				{
+					"filename": "West_MidShip_B.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 299,
+						"h": 350
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 299,
+						"h": 350
+					},
+					"frame": {
+						"x": 299,
+						"y": 350,
+						"w": 299,
+						"h": 350
+					}
+				},
+				{
+					"filename": "Tree_RH.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 159,
+						"h": 366
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 159,
+						"h": 366
+					},
+					"frame": {
+						"x": 598,
+						"y": 350,
+						"w": 159,
+						"h": 366
+					}
+				},
+				{
+					"filename": "Sinda_House.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 435,
+						"h": 367
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 435,
+						"h": 367
+					},
+					"frame": {
+						"x": 757,
+						"y": 350,
+						"w": 435,
+						"h": 367
+					}
+				},
+				{
+					"filename": "Kanina_House.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 470,
+						"h": 372
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 470,
+						"h": 372
+					},
+					"frame": {
+						"x": 1192,
+						"y": 350,
+						"w": 470,
+						"h": 372
+					}
+				},
+				{
+					"filename": "Rorian_House.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 470,
+						"h": 372
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 470,
+						"h": 372
+					},
+					"frame": {
+						"x": 0,
+						"y": 722,
+						"w": 470,
+						"h": 372
+					}
+				},
+				{
+					"filename": "West_Tile_A.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 224,
+						"h": 386
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 224,
+						"h": 386
+					},
+					"frame": {
+						"x": 470,
+						"y": 722,
+						"w": 224,
+						"h": 386
+					}
+				},
+				{
+					"filename": "Sharan_House.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 356,
+						"h": 400
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 356,
+						"h": 400
+					},
+					"frame": {
+						"x": 694,
+						"y": 722,
+						"w": 356,
+						"h": 400
+					}
+				},
+				{
+					"filename": "West_Tile_B.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 224,
+						"h": 403
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 224,
+						"h": 403
+					},
+					"frame": {
+						"x": 1050,
+						"y": 722,
+						"w": 224,
+						"h": 403
+					}
+				},
+				{
+					"filename": "HendonMyre_Church.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 673,
+						"h": 407
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 673,
+						"h": 407
+					},
+					"frame": {
+						"x": 1274,
+						"y": 722,
+						"w": 673,
+						"h": 407
+					}
+				},
+				{
+					"filename": "ProphecyCrystal_Table.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 628,
+						"h": 411
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 628,
+						"h": 411
+					},
+					"frame": {
+						"x": 0,
+						"y": 1129,
+						"w": 628,
+						"h": 411
+					}
+				},
+				{
+					"filename": "HendonMyre_CityHall_A.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 640,
+						"h": 433
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 640,
+						"h": 433
+					},
+					"frame": {
+						"x": 628,
+						"y": 1129,
+						"w": 640,
+						"h": 433
+					}
+				},
+				{
+					"filename": "HendonMyre_CityHall_B.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 351,
+						"h": 433
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 351,
+						"h": 433
+					},
+					"frame": {
+						"x": 1268,
+						"y": 1129,
+						"w": 351,
+						"h": 433
+					}
+				},
+				{
+					"filename": "SnowArea_Entrance_R.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 225,
+						"h": 463
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 225,
+						"h": 463
+					},
+					"frame": {
+						"x": 1619,
+						"y": 1129,
+						"w": 225,
+						"h": 463
+					}
+				}
+			]
+		},
+		{
+			"image": "HendonMyre-2.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 781,
+				"h": 1572
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "SkyBridge_D.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 224,
+						"h": 470
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 224,
+						"h": 470
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 224,
+						"h": 470
+					}
+				},
+				{
+					"filename": "SeriaTavern_Entrance.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 456,
+						"h": 471
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 456,
+						"h": 471
+					},
+					"frame": {
+						"x": 224,
+						"y": 0,
+						"w": 456,
+						"h": 471
+					}
+				},
+				{
+					"filename": "West_Tile_A_RM.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 275,
+						"h": 474
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 275,
+						"h": 474
+					},
+					"frame": {
+						"x": 0,
+						"y": 471,
+						"w": 275,
+						"h": 474
+					}
+				},
+				{
+					"filename": "West_Tile_B_RM.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 275,
+						"h": 495
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 275,
+						"h": 495
+					},
+					"frame": {
+						"x": 275,
+						"y": 471,
+						"w": 275,
+						"h": 495
+					}
+				},
+				{
+					"filename": "GSD_R_End.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 231,
+						"h": 501
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 231,
+						"h": 501
+					},
+					"frame": {
+						"x": 550,
+						"y": 471,
+						"w": 231,
+						"h": 501
+					}
+				},
+				{
+					"filename": "GurlandForest_Entrance_M.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 239,
+						"h": 543
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 239,
+						"h": 543
+					},
+					"frame": {
+						"x": 0,
+						"y": 972,
+						"w": 239,
+						"h": 543
+					}
+				},
+				{
+					"filename": "SkyBridge_C.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 224,
+						"h": 546
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 224,
+						"h": 546
+					},
+					"frame": {
+						"x": 239,
+						"y": 972,
+						"w": 224,
+						"h": 546
+					}
+				},
+				{
+					"filename": "GurlandForest_Entrance_L.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 240,
+						"h": 600
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 240,
+						"h": 600
+					},
+					"frame": {
+						"x": 463,
+						"y": 972,
+						"w": 240,
+						"h": 600
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:57493505dc3f659e9194e4b391f00452:6d690586c468f503686371c1cd6722e7:657586fa774b2b5a56e090c5818d7f76$"
+	}
+}

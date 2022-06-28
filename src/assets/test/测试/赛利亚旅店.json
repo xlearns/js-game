@@ -1,0 +1,356 @@
+{
+	"textures": [
+		{
+			"image": "赛利亚旅店.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 956,
+				"h": 2040
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "0 (2)",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 954,
+						"h": 560
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 954,
+						"h": 560
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 954,
+						"h": 560
+					}
+				},
+				{
+					"filename": "1 (2)",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 299
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 299
+					},
+					"frame": {
+						"x": 0,
+						"y": 560,
+						"w": 110,
+						"h": 299
+					}
+				},
+				{
+					"filename": "1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 760,
+						"h": 466
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 760,
+						"h": 466
+					},
+					"frame": {
+						"x": 110,
+						"y": 560,
+						"w": 760,
+						"h": 466
+					}
+				},
+				{
+					"filename": "2 (2)",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 299
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 299
+					},
+					"frame": {
+						"x": 0,
+						"y": 1026,
+						"w": 110,
+						"h": 299
+					}
+				},
+				{
+					"filename": "3 (2)",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 299
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 299
+					},
+					"frame": {
+						"x": 110,
+						"y": 1026,
+						"w": 110,
+						"h": 299
+					}
+				},
+				{
+					"filename": "3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 92,
+						"h": 67
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 92,
+						"h": 67
+					},
+					"frame": {
+						"x": 220,
+						"y": 1026,
+						"w": 92,
+						"h": 67
+					}
+				},
+				{
+					"filename": "4 (2)",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 299
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 299
+					},
+					"frame": {
+						"x": 312,
+						"y": 1026,
+						"w": 110,
+						"h": 299
+					}
+				},
+				{
+					"filename": "4",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 94,
+						"h": 83
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 94,
+						"h": 83
+					},
+					"frame": {
+						"x": 422,
+						"y": 1026,
+						"w": 94,
+						"h": 83
+					}
+				},
+				{
+					"filename": "5",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 299
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 299
+					},
+					"frame": {
+						"x": 516,
+						"y": 1026,
+						"w": 110,
+						"h": 299
+					}
+				},
+				{
+					"filename": "6",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 299
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 299
+					},
+					"frame": {
+						"x": 626,
+						"y": 1026,
+						"w": 110,
+						"h": 299
+					}
+				},
+				{
+					"filename": "7",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 299
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 299
+					},
+					"frame": {
+						"x": 736,
+						"y": 1026,
+						"w": 110,
+						"h": 299
+					}
+				},
+				{
+					"filename": "8",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 110,
+						"h": 299
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 110,
+						"h": 299
+					},
+					"frame": {
+						"x": 846,
+						"y": 1026,
+						"w": 110,
+						"h": 299
+					}
+				},
+				{
+					"filename": "light2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 305,
+						"h": 106
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 305,
+						"h": 106
+					},
+					"frame": {
+						"x": 0,
+						"y": 1325,
+						"w": 305,
+						"h": 106
+					}
+				},
+				{
+					"filename": "light3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 238,
+						"h": 155
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 238,
+						"h": 155
+					},
+					"frame": {
+						"x": 305,
+						"y": 1325,
+						"w": 238,
+						"h": 155
+					}
+				},
+				{
+					"filename": "出口灯",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 239,
+						"h": 101
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 239,
+						"h": 101
+					},
+					"frame": {
+						"x": 543,
+						"y": 1325,
+						"w": 239,
+						"h": 101
+					}
+				},
+				{
+					"filename": "背景",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 954,
+						"h": 560
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 954,
+						"h": 560
+					},
+					"frame": {
+						"x": 0,
+						"y": 1480,
+						"w": 954,
+						"h": 560
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:55ec4d243346a526ad7f471f16979e9c:c373941b86ca9bef8e9d75ced05b70ff:1c28062b7dc2f5025dcd00b808fa195f$"
+	}
+}

@@ -1,0 +1,377 @@
+{
+	"textures": [
+		{
+			"image": "ElvenGard.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1013,
+				"h": 1146
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Middle",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 640,
+						"h": 380
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 640,
+						"h": 380
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 640,
+						"h": 380
+					}
+				},
+				{
+					"filename": "Lawn_D",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 224,
+						"h": 235
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 224,
+						"h": 235
+					},
+					"frame": {
+						"x": 643,
+						"y": 1,
+						"w": 224,
+						"h": 235
+					}
+				},
+				{
+					"filename": "Tree_Thin",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 143,
+						"h": 423
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 143,
+						"h": 423
+					},
+					"frame": {
+						"x": 869,
+						"y": 1,
+						"w": 143,
+						"h": 423
+					}
+				},
+				{
+					"filename": "Lawn_B",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 224,
+						"h": 233
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 224,
+						"h": 233
+					},
+					"frame": {
+						"x": 643,
+						"y": 238,
+						"w": 224,
+						"h": 233
+					}
+				},
+				{
+					"filename": "Far",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 640,
+						"h": 295
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 640,
+						"h": 295
+					},
+					"frame": {
+						"x": 1,
+						"y": 383,
+						"w": 640,
+						"h": 295
+					}
+				},
+				{
+					"filename": "ElvenGard_GuideBoard",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 141,
+						"h": 229
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 141,
+						"h": 229
+					},
+					"frame": {
+						"x": 869,
+						"y": 426,
+						"w": 141,
+						"h": 229
+					}
+				},
+				{
+					"filename": "Lawn_C",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 224,
+						"h": 233
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 224,
+						"h": 233
+					},
+					"frame": {
+						"x": 643,
+						"y": 473,
+						"w": 224,
+						"h": 233
+					}
+				},
+				{
+					"filename": "Stone",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 141,
+						"h": 89
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 141,
+						"h": 89
+					},
+					"frame": {
+						"x": 869,
+						"y": 657,
+						"w": 141,
+						"h": 89
+					}
+				},
+				{
+					"filename": "SeriaTavern_Entrance",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 445,
+						"h": 381
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 445,
+						"h": 381
+					},
+					"frame": {
+						"x": 1,
+						"y": 680,
+						"w": 445,
+						"h": 381
+					}
+				},
+				{
+					"filename": "Alphalia_Entrance_Low",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 170,
+						"h": 121
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 170,
+						"h": 121
+					},
+					"frame": {
+						"x": 448,
+						"y": 680,
+						"w": 170,
+						"h": 121
+					}
+				},
+				{
+					"filename": "Lawn_A",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 224,
+						"h": 203
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 224,
+						"h": 203
+					},
+					"frame": {
+						"x": 620,
+						"y": 708,
+						"w": 224,
+						"h": 203
+					}
+				},
+				{
+					"filename": "City_Instruct_RedRight",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 156,
+						"h": 257
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 156,
+						"h": 257
+					},
+					"frame": {
+						"x": 448,
+						"y": 803,
+						"w": 156,
+						"h": 257
+					}
+				},
+				{
+					"filename": "City_Instruct_GreenLeft",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 156,
+						"h": 220
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 156,
+						"h": 220
+					},
+					"frame": {
+						"x": 846,
+						"y": 748,
+						"w": 156,
+						"h": 220
+					}
+				},
+				{
+					"filename": "GroundTile_B",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 224,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 224,
+						"h": 97
+					},
+					"frame": {
+						"x": 606,
+						"y": 913,
+						"w": 224,
+						"h": 97
+					}
+				},
+				{
+					"filename": "GroundTile_C",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 224,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 224,
+						"h": 97
+					},
+					"frame": {
+						"x": 606,
+						"y": 1012,
+						"w": 224,
+						"h": 97
+					}
+				},
+				{
+					"filename": "GroundTile_D",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 224,
+						"h": 82
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 224,
+						"h": 82
+					},
+					"frame": {
+						"x": 1,
+						"y": 1063,
+						"w": 224,
+						"h": 82
+					}
+				},
+				{
+					"filename": "GroundTile_A",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 224,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 224,
+						"h": 81
+					},
+					"frame": {
+						"x": 227,
+						"y": 1063,
+						"w": 224,
+						"h": 81
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:d2d2799127c72f30d50c1ed1a627af74:48da4fdcaea849569c6221b8c05ceca0:720e3415e370dc0f88f2d3ad728fe90b$"
+	}
+}

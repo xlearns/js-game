@@ -1,0 +1,125 @@
+{
+	"textures": [
+		{
+			"image": "赛利亚房间.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 954,
+				"h": 1028
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "0",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 954,
+						"h": 480
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 954,
+						"h": 480
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 954,
+						"h": 480
+					}
+				},
+				{
+					"filename": "1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 373,
+						"h": 393
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 373,
+						"h": 393
+					},
+					"frame": {
+						"x": 0,
+						"y": 480,
+						"w": 373,
+						"h": 393
+					}
+				},
+				{
+					"filename": "2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 239,
+						"h": 101
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 239,
+						"h": 101
+					},
+					"frame": {
+						"x": 373,
+						"y": 480,
+						"w": 239,
+						"h": 101
+					}
+				},
+				{
+					"filename": "light2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 305,
+						"h": 106
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 305,
+						"h": 106
+					},
+					"frame": {
+						"x": 612,
+						"y": 480,
+						"w": 305,
+						"h": 106
+					}
+				},
+				{
+					"filename": "light3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 238,
+						"h": 155
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 238,
+						"h": 155
+					},
+					"frame": {
+						"x": 0,
+						"y": 873,
+						"w": 238,
+						"h": 155
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:699b300f01bb01e82d41ec19eb562eef:559e13475ddc1ce2b8aaff2cf101dbba:ce0c6cf1207e4a71e2574f4e2f77fd4a$"
+	}
+}
